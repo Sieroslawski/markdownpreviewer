@@ -7,7 +7,7 @@
 * *italicize*
 * >blockquotes
 * | Tables        |
-*  ![hyperlinks](https://codepen.io/Adrian540/full/NWWqJRp)
+* [hyperlinks](https://codepen.io/Adrian540/full/NWWqJRp)
 * lists
 
 [Live Preview](https://codepen.io/Adrian540/full/NWWqJRp)
