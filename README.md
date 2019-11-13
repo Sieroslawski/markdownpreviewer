@@ -6,7 +6,7 @@
 * __bold__
 * *italicize*
 * >blockquotes
-* | Tables        |
+* | tables        |
   | ------------- |
 * [hyperlinks](https://codepen.io/Adrian540/full/NWWqJRp)
 * lists
