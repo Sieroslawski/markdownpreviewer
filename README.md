@@ -1,5 +1,5 @@
 # markdownpreviewer
-#An HTML markdown previewer
+# An HTML markdown previewer
 ![Markdown previewer](https://res.cloudinary.com/dffnnfo2w/image/upload/v1573602802/markdown_pbbfa6.png)
 
 ### An HTML markdown previewer that allows you to do such basic things like: 
