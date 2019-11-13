@@ -3,7 +3,7 @@
 
 ### An HTML markdown previewer that allows you to do such basic things like: 
 
-..* bold 
+⋅⋅* bold 
 ..* italicize
 ..* blockquotes
 ..* tables
