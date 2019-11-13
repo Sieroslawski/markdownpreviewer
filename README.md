@@ -4,11 +4,11 @@
 ### An HTML markdown previewer that allows you to do such basic things like: 
 
 * bold 
-..* italicize
-..* blockquotes
-..* tables
-..* hyperlinks
-..* lists
+* italicize
+* blockquotes
+* tables
+* hyperlinks
+* lists
 
 [Live Preview](https://codepen.io/Adrian540/full/NWWqJRp)
 
